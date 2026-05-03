@@ -18,7 +18,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Telephone",
-    value: "+225 24 98 800",
+    value: "+225 24 39 16 00",
     subValue: "Disponible 24h/24",
   },
   {
